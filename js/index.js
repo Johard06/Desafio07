@@ -5,7 +5,7 @@ const nombre = prompt('¿Quién se presenta hoy?').toLowerCase();
 
 const span = document.getElementById('nombre');
 
-const title = document.getElementById('Mario', 'Luigi', 'Bowser', 'Peach', 'Yoshi', 'Toad', 'Toadette', 'Daisy');
+//const title = document.getElementById('Mario', 'Luigi', 'Bowser', 'Peach', 'Yoshi', 'Toad', 'Toadette', 'Daisy');
 
 if (personajes.includes(nombre)) {
     console.log('Hoy se presenta:' + nombre);

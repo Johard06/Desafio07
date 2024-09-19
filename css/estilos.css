@@ -36,6 +36,39 @@ h1 > strong {
     justify-content: center;
 }
 
+#cortinaMario {
+    width: 100%;
+    height: 100%;
+}
+#cortinaLuigi {
+    width: 100%;
+    height: 100%;
+}
+#cortinaBowser {
+    width: 100%;
+    height: 100%;
+}
+#cortinaPeach {
+    width: 100%;
+    height: 100%;
+}
+#cortinaYoshi {
+    width: 100%;
+    height: 100%;
+}
+#cortinaToad {
+    width: 100%;
+    height: 100%;
+}
+#cortinaToadette {
+    width: 100%;
+    height: 100%;
+}
+#cortinaDaisy {
+    width: 100%;
+    height: 100%;
+}
+
 #cajas > div {
     width: 200px;
     height: 200px;
